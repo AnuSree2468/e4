@@ -1,0 +1,1 @@
+DevOps is a software development approach that emphasizes collaboration and automation between development (Dev) and operations (Ops) teams, aiming for faster and more reliable software delivery. It's often viewed as a culture, connecting people, processes, and technology to deliver continuous value. 
